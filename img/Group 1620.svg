@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="101.163" viewBox="0 0 96 101.163">
+  <g id="Group_1620" data-name="Group 1620" transform="translate(-1315 -1693.837)">
+    <text id="Märkamine_ja_väärtustamine" data-name="Märkamine ja
+väärtustamine" transform="translate(1363 1773)" fill="#fff" font-size="14" font-family="Averta-Semibold, Averta" font-weight="600"><tspan x="-45" y="0">Märkamine ja</tspan><tspan x="-47" y="18">väärtustamine</tspan></text>
+    <g id="Group_1520" data-name="Group 1520" transform="translate(1329.61 1706.025)">
+      <path id="Path_1799" data-name="Path 1799" d="M30.7,45.517c-18.009,0-29.027-18.465-29.489-19.249l-.29-.5.288-.5C1.666,24.487,12.565,6.02,30.7,6.02S59.735,24.489,60.191,25.273l.288.5-.29.5C59.727,27.052,48.709,45.517,30.7,45.517ZM3.226,25.767C5.11,28.693,15.42,43.543,30.7,43.543c15.3,0,25.592-14.847,27.474-17.776C56.306,22.836,46.086,7.995,30.7,7.995S5.094,22.834,3.226,25.767Z" transform="translate(-0.921 -6.02)" fill="#fff"/>
+    </g>
+    <g id="Group_1521" data-name="Group 1521" transform="translate(1351.746 1717.941)">
+      <path id="Path_1800" data-name="Path 1800" d="M19.331,27.182A7.83,7.83,0,0,1,12.5,15.525a.87.87,0,1,1,1.517.851,6.082,6.082,0,1,0,2.3-2.32.871.871,0,0,1-.861-1.514,7.832,7.832,0,1,1,3.874,14.64Z" transform="translate(-11.5 -11.519)" fill="#fff"/>
+    </g>
+    <path id="Path_1891" data-name="Path 1891" d="M21.921,35.863A13.938,13.938,0,0,1,8,21.941a13.8,13.8,0,0,1,2.755-8.311.87.87,0,1,1,1.4,1.039,12.16,12.16,0,1,0,2.462-2.475.869.869,0,1,1-1.044-1.39A13.793,13.793,0,0,1,21.921,8.02a13.921,13.921,0,0,1,0,27.843Z" transform="translate(1337.656 1703.832)" fill="#fff"/>
+    <line id="Line_108" data-name="Line 108" x2="2" y2="11" transform="translate(1373.39 1695)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_109" data-name="Line 109" x1="7" y2="9" transform="translate(1381.39 1699)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_110" data-name="Line 110" x1="10" y2="3.852" transform="translate(1386.39 1708)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
